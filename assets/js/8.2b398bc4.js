@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{432:function(n,t,l){"use strict";l.r(t);var c={methods:{handleClick:function(){console.log("click")}}},e=l(44),i=Object(e.a)(c,(function(){var n=this.$createElement;return(this._self._c||n)("button",{on:{click:this.handleClick}},[this._v("我是按钮")])}),[],!1,null,null,null);t.default=i.exports}}]);
